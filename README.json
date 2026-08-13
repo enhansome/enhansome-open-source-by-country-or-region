@@ -1,0 +1,832 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ukraine",
+          "description": "[ leaflet ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-17T18:22:23Z",
+            "owner": "chernivtsijs",
+            "repo": "made-in-ukraine",
+            "stars": 602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Germany",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-08T17:59:37Z",
+            "owner": "mvximenko",
+            "repo": "gg",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Romania",
+          "description": "[ uglify ] gadgetisimo/ro-open-source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:45:11Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-romania",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Albania",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-13T09:34:53Z",
+            "owner": "redjanym",
+            "repo": "awesome-made-by-albanians",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Poland",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:44:18Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-poland",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bosnia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:35:31Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-bosnia",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Austria",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:33:58Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-austria",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bulgaria",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:36:30Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-bulgaria",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "France",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:39:37Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-france",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Portugal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:44:40Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-portugal",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Greece",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:40:00Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-greece",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Belarus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:34:21Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-belarus",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spain",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:47:07Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-spain",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Denmark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:38:06Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-denmark",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Italy",
+          "description": "[ redis ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:41:16Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-italy",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moldova",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:42:48Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-moldova",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Estonia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:38:51Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-estonia",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netherlands",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-06T13:11:27Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-netherlands",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serbia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:45:57Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-serbia",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Croatia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:37:40Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-croatia",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slovakia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:46:20Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-slovakia",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Belgium",
+          "description": "[ hakyll ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:34:45Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-belgium",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Latvia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:41:39Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-latvia",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lithuania",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:42:02Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-lithuania",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slovenia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:46:42Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-slovenia",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Malta",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:42:25Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-malta",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Finland",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:39:13Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-finland",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Russia",
+          "description": "[ firacode - kotlin - opencv - redux - nginx - emmet ]",
+          "children": []
+        }
+      ],
+      "title": "Europe"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Brazil",
+          "description": "[ elixir - lua - neovim - dracula theme]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-22T12:11:05Z",
+            "owner": "felipefialho",
+            "repo": "awesome-made-by-brazilians",
+            "stars": 1830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chile",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:36:53Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-chile",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colombia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:37:16Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-colombia",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uruguay",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:49:15Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-uruguay",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argentina",
+          "description": "[ crystal ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:33:34Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-argentina",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Venezuela",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:49:37Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-venezuela",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paraguay",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:43:34Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-paraguay",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Peru",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:43:56Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-peru",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bolivia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:35:08Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-bolivia",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Equador",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:38:29Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-ecuador",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guyana",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:40:22Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-guyana",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Canada",
+          "description": "[ preact - koa - ublock - spacemacs - learn x in y minutes - devdocs ]",
+          "children": []
+        }
+      ],
+      "title": "America"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Iran",
+          "description": "[ nuxt ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-21T19:51:29Z",
+            "owner": "mohebifar",
+            "repo": "made-in-iran",
+            "stars": 969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taiwan",
+          "description": "[ hexo ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-20T08:27:36Z",
+            "owner": "hueitan",
+            "repo": "made-in-taiwan",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Japan",
+          "description": "[ ruby ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-27T15:34:15Z",
+            "owner": "mvximenko",
+            "repo": "rpg-card",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "China",
+          "description": "[ vue - nw.js ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-02T08:24:57Z",
+            "owner": "JN-H",
+            "repo": "awesome-made-by-chinese",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kazakhstan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-15T06:38:09Z",
+            "owner": "nugmanoff",
+            "repo": "awesome-made-in-kz",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "India",
+          "description": "[ pytorch ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-16T09:35:30Z",
+            "owner": "jeswinsimon",
+            "repo": "awesome-made-by-indians",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turkey",
+          "description": "[ kemal ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-06T13:16:22Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-turkey",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bangladesh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nunjucks",
+            "last_commit": "2026-08-13T02:04:27Z",
+            "owner": "sharf-shawon",
+            "repo": "Awesome-Bangladeshi-Devs",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uzbekistan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-17T12:11:20Z",
+            "owner": "webstyle",
+            "repo": "made-in-uzbekistan",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Asia"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nigeria",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T03:50:35Z",
+            "owner": "acekyd",
+            "repo": "made-in-nigeria",
+            "stars": 1134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kenya",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-01-11T16:22:24Z",
+            "owner": "MadeInKenya",
+            "repo": "madeinkenya.github.io",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ivory Coast",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-18T20:46:42Z",
+            "owner": "codedivoire",
+            "repo": "made-in-ci",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghana",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-25T11:07:14Z",
+            "owner": "devcongress",
+            "repo": "made-in-ghana",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zambia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-27T08:58:18Z",
+            "owner": "ZambianTech",
+            "repo": "made-in-zambia",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Benin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-22T12:38:24Z",
+            "owner": "olivsinz",
+            "repo": "made-in-benin",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cameroon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-13T10:58:51Z",
+            "owner": "roc41d",
+            "repo": "made-in-cameroon",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mauritius",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-26T23:16:00Z",
+            "owner": "Humeira",
+            "repo": "made-in-Mauritius",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Senegal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-08-05T11:43:31Z",
+            "owner": "JoloffCode",
+            "repo": "made-in-senegal",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Africa"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:34.136Z",
+    "original_repository": "slowernews/awesome-open-source-by-country-or-region",
+    "original_repository_sha": "60940bf44d8d5d5343d1703a641d5e83a29bd567",
+    "enhanced_repository": "enhansome/enhansome-open-source-by-country-or-region",
+    "enhanced_repository_description": null,
+    "title": "Awesome open-source by country or region with stars"
+  }
+}
