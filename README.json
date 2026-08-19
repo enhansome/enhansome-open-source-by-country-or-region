@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284992280,
             "language": null,
             "last_commit": "2025-11-17T18:22:23Z",
             "owner": "chernivtsijs",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 408087337,
             "language": "JavaScript",
             "last_commit": "2024-06-08T17:59:37Z",
             "owner": "mvximenko",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62721395,
             "language": null,
             "last_commit": "2025-02-13T20:45:11Z",
             "owner": "IonicaBizau",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289873079,
             "language": null,
             "last_commit": "2023-12-13T09:34:53Z",
             "owner": "redjanym",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64033446,
             "language": null,
             "last_commit": "2025-02-13T20:44:18Z",
             "owner": "IonicaBizau",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104641553,
             "language": null,
             "last_commit": "2025-02-13T20:35:31Z",
             "owner": "IonicaBizau",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64033063,
             "language": null,
             "last_commit": "2025-02-13T20:33:58Z",
             "owner": "IonicaBizau",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63953231,
             "language": null,
             "last_commit": "2025-02-13T20:36:30Z",
             "owner": "IonicaBizau",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65120763,
             "language": null,
             "last_commit": "2025-02-13T20:39:37Z",
             "owner": "IonicaBizau",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65120786,
             "language": null,
             "last_commit": "2025-02-13T20:44:40Z",
             "owner": "IonicaBizau",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64032614,
             "language": null,
             "last_commit": "2025-02-13T20:40:00Z",
             "owner": "IonicaBizau",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64033115,
             "language": null,
             "last_commit": "2025-02-13T20:34:21Z",
             "owner": "IonicaBizau",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65120796,
             "language": null,
             "last_commit": "2025-02-13T20:47:07Z",
             "owner": "IonicaBizau",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65120753,
             "language": null,
             "last_commit": "2025-02-13T20:38:06Z",
             "owner": "IonicaBizau",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65120769,
             "language": null,
             "last_commit": "2025-02-13T20:41:16Z",
             "owner": "IonicaBizau",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63952220,
             "language": null,
             "last_commit": "2025-02-13T20:42:48Z",
             "owner": "IonicaBizau",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64033159,
             "language": null,
             "last_commit": "2025-02-13T20:38:51Z",
             "owner": "IonicaBizau",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65120775,
             "language": null,
             "last_commit": "2025-08-06T13:11:27Z",
             "owner": "IonicaBizau",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63157096,
             "language": null,
             "last_commit": "2025-02-13T20:45:57Z",
             "owner": "IonicaBizau",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64030852,
             "language": null,
             "last_commit": "2025-02-13T20:37:40Z",
             "owner": "IonicaBizau",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64032745,
             "language": null,
             "last_commit": "2025-02-13T20:46:20Z",
             "owner": "IonicaBizau",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65120748,
             "language": null,
             "last_commit": "2025-02-13T20:34:45Z",
             "owner": "IonicaBizau",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64033276,
             "language": null,
             "last_commit": "2025-02-13T20:41:39Z",
             "owner": "IonicaBizau",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64033347,
             "language": null,
             "last_commit": "2025-02-13T20:42:02Z",
             "owner": "IonicaBizau",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64032793,
             "language": null,
             "last_commit": "2025-02-13T20:46:42Z",
             "owner": "IonicaBizau",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105289874,
             "language": null,
             "last_commit": "2025-02-13T20:42:25Z",
             "owner": "IonicaBizau",
@@ -374,24 +400,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65120756,
             "language": null,
             "last_commit": "2025-02-13T20:39:13Z",
             "owner": "IonicaBizau",
             "repo": "made-in-finland",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Russia",
-          "description": "[ firacode - kotlin - opencv - redux - nginx - emmet ]",
-          "children": []
         }
       ],
       "title": "Europe"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -400,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289337987,
             "language": null,
             "last_commit": "2026-08-13T19:39:00Z",
             "owner": "felipefialho",
@@ -414,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153809313,
             "language": null,
             "last_commit": "2025-02-13T20:36:53Z",
             "owner": "IonicaBizau",
@@ -428,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153791862,
             "language": null,
             "last_commit": "2025-02-13T20:37:16Z",
             "owner": "IonicaBizau",
@@ -442,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153822768,
             "language": null,
             "last_commit": "2025-02-13T20:49:15Z",
             "owner": "IonicaBizau",
@@ -456,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153805594,
             "language": null,
             "last_commit": "2025-02-13T20:33:34Z",
             "owner": "IonicaBizau",
@@ -470,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153819473,
             "language": null,
             "last_commit": "2025-02-13T20:49:37Z",
             "owner": "IonicaBizau",
@@ -484,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153816156,
             "language": null,
             "last_commit": "2025-02-13T20:43:34Z",
             "owner": "IonicaBizau",
@@ -498,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153826856,
             "language": null,
             "last_commit": "2025-02-13T20:43:56Z",
             "owner": "IonicaBizau",
@@ -512,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153812701,
             "language": null,
             "last_commit": "2025-02-13T20:35:08Z",
             "owner": "IonicaBizau",
@@ -526,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153783383,
             "language": null,
             "last_commit": "2025-02-13T20:38:29Z",
             "owner": "IonicaBizau",
@@ -540,24 +571,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153826190,
             "language": null,
             "last_commit": "2025-02-13T20:40:22Z",
             "owner": "IonicaBizau",
             "repo": "made-in-guyana",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Canada",
-          "description": "[ preact - koa - ublock - spacemacs - learn x in y minutes - devdocs ]",
-          "children": []
         }
       ],
       "title": "America"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -566,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62889674,
             "language": "TypeScript",
             "last_commit": "2024-03-21T19:51:29Z",
             "owner": "mohebifar",
@@ -580,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63853410,
             "language": "JavaScript",
             "last_commit": "2026-03-20T08:27:36Z",
             "owner": "hueitan",
@@ -594,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 408087806,
             "language": "JavaScript",
             "last_commit": "2023-10-27T15:34:15Z",
             "owner": "mvximenko",
@@ -608,6 +637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284896802,
             "language": null,
             "last_commit": "2022-03-02T08:24:57Z",
             "owner": "JN-H",
@@ -622,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300057700,
             "language": null,
             "last_commit": "2025-05-15T06:38:09Z",
             "owner": "aidarnouman",
@@ -636,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289402069,
             "language": null,
             "last_commit": "2026-03-16T09:35:30Z",
             "owner": "jeswinsimon",
@@ -650,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64032893,
             "language": null,
             "last_commit": "2025-08-06T13:16:22Z",
             "owner": "IonicaBizau",
@@ -664,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1216866481,
             "language": "Nunjucks",
             "last_commit": "2026-08-19T01:26:43Z",
             "owner": "sharf-shawon",
@@ -678,6 +712,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199652795,
             "language": null,
             "last_commit": "2023-05-17T12:11:20Z",
             "owner": "webstyle",
@@ -689,7 +724,7 @@
       "title": "Asia"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -698,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85386965,
             "language": "JavaScript",
             "last_commit": "2026-08-17T02:56:11Z",
             "owner": "acekyd",
@@ -712,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242367147,
             "language": "HTML",
             "last_commit": "2024-01-11T16:22:24Z",
             "owner": "MadeInKenya",
@@ -726,6 +763,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126012088,
             "language": null,
             "last_commit": "2024-11-18T20:46:42Z",
             "owner": "codedivoire",
@@ -740,6 +778,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86869955,
             "language": null,
             "last_commit": "2023-05-25T11:07:14Z",
             "owner": "devcongress",
@@ -754,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96708461,
             "language": null,
             "last_commit": "2023-04-27T08:58:18Z",
             "owner": "ZambianTech",
@@ -768,6 +808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266393715,
             "language": null,
             "last_commit": "2023-12-22T12:38:24Z",
             "owner": "olivsinz",
@@ -782,6 +823,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 306037658,
             "language": null,
             "last_commit": "2023-01-13T10:58:51Z",
             "owner": "roc41d",
@@ -796,6 +838,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74606669,
             "language": "JavaScript",
             "last_commit": "2023-10-26T23:16:00Z",
             "owner": "Humeira",
@@ -810,6 +853,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138779725,
             "language": null,
             "last_commit": "2018-08-05T11:43:31Z",
             "owner": "JoloffCode",
@@ -822,8 +866,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:59:59.911Z",
+    "last_updated": "2026-08-19T12:44:39.620Z",
     "original_repository": "slowernews/awesome-open-source-by-country-or-region",
+    "original_repository_id": 316718318,
     "original_repository_sha": "60940bf44d8d5d5343d1703a641d5e83a29bd567",
     "enhanced_repository": "enhansome/enhansome-open-source-by-country-or-region",
     "enhanced_repository_description": null,
