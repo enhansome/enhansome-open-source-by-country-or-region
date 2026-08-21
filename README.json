@@ -426,7 +426,7 @@
             "last_commit": "2026-08-13T19:39:00Z",
             "owner": "felipefialho",
             "repo": "awesome-made-by-brazilians",
-            "stars": 1863
+            "stars": 1864
           }
         },
         {
@@ -699,7 +699,7 @@
             "archived": false,
             "id": 1216866481,
             "language": "Nunjucks",
-            "last_commit": "2026-08-20T01:01:56Z",
+            "last_commit": "2026-08-21T01:31:35Z",
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
             "stars": 58
@@ -738,7 +738,7 @@
             "last_commit": "2026-08-17T02:56:11Z",
             "owner": "acekyd",
             "repo": "made-in-nigeria",
-            "stars": 1135
+            "stars": 1136
           }
         },
         {
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T06:00:13.769Z",
+    "last_updated": "2026-08-21T06:01:50.931Z",
     "original_repository": "slowernews/awesome-open-source-by-country-or-region",
     "original_repository_id": 316718318,
     "original_repository_sha": "60940bf44d8d5d5343d1703a641d5e83a29bd567",
