@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇺🇦 Curating the best projects that were made and mainly contributed by Ukrainian developers",
+            "homepage": null,
             "id": 284992280,
             "language": null,
+            "license": null,
             "last_commit": "2025-11-17T18:22:23Z",
+            "open_issues": 0,
             "owner": "chernivtsijs",
             "repo": "made-in-ukraine",
-            "stars": 603
+            "stars": 603,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "made-by-ukrainians",
+              "ukraine"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -26,12 +36,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Game Finder built with Next",
+            "homepage": "https://m-gg.vercel.app",
             "id": 408087337,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-06-08T17:59:37Z",
+            "open_issues": 0,
             "owner": "mvximenko",
             "repo": "gg",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "epic-games",
+              "game",
+              "games",
+              "igdb",
+              "igdb-api",
+              "nextjs",
+              "playstation",
+              "react",
+              "steam",
+              "tailwindcss",
+              "twitch",
+              "video-game",
+              "video-games",
+              "videogame",
+              "videogames"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -42,12 +73,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇷🇴 A list of cool projects made in Romania.",
+            "homepage": null,
             "id": 62721395,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:45:11Z",
+            "open_issues": 4,
             "owner": "IonicaBizau",
             "repo": "made-in-romania",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -58,12 +96,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇦🇱 The best open source projects that were made and mainly contributed by Albanian developers",
+            "homepage": null,
             "id": 289873079,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-13T09:34:53Z",
+            "open_issues": 0,
             "owner": "redjanym",
             "repo": "awesome-made-by-albanians",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -74,12 +119,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇵🇱 A list of neat projects made in Poland",
+            "homepage": null,
             "id": 64033446,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:44:18Z",
+            "open_issues": 1,
             "owner": "IonicaBizau",
             "repo": "made-in-poland",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -90,12 +142,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇧🇦 A list of cool projects made in Bosnia.",
+            "homepage": null,
             "id": 104641553,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:35:31Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-bosnia",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -106,12 +165,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇦🇹 A list of neat projects made in Austria",
+            "homepage": null,
             "id": 64033063,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:33:58Z",
+            "open_issues": 3,
             "owner": "IonicaBizau",
             "repo": "made-in-austria",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -122,12 +188,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇧🇬 A list of neat projects made in Bulgaria",
+            "homepage": null,
             "id": 63953231,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:36:30Z",
+            "open_issues": 2,
             "owner": "IonicaBizau",
             "repo": "made-in-bulgaria",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -138,12 +211,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇫🇷 A list of neat projects made in France",
+            "homepage": null,
             "id": 65120763,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:39:37Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-france",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -154,12 +234,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇵🇹 A list of neat projects made in Portugal",
+            "homepage": null,
             "id": 65120786,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:44:40Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-portugal",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -170,12 +257,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇬🇷 A list of neat projects made in Greece",
+            "homepage": null,
             "id": 64032614,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:40:00Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-greece",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -186,12 +280,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇧🇾 A list of neat projects made in Belarus",
+            "homepage": null,
             "id": 64033115,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:34:21Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-belarus",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -202,12 +303,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇪🇸 A list of neat projects made in Spain",
+            "homepage": null,
             "id": 65120796,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:47:07Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-spain",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -218,12 +326,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇩🇰 A list of neat projects made in Denmark",
+            "homepage": null,
             "id": 65120753,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:38:06Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-denmark",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -234,12 +349,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇮🇹 A list of neat projects made in Italy",
+            "homepage": null,
             "id": 65120769,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:41:16Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-italy",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -250,12 +372,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇲🇩 A list of neat projects made in Moldova",
+            "homepage": null,
             "id": 63952220,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:42:48Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-moldova",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -266,12 +395,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇪🇪 A list of neat projects made in Estonia",
+            "homepage": null,
             "id": 64033159,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:38:51Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-estonia",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -282,12 +418,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇳🇱 A list of neat projects made in Netherlands.",
+            "homepage": null,
             "id": 65120775,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-08-06T13:11:27Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-netherlands",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -298,12 +441,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇷🇸 A list of neat projects made in Serbia.",
+            "homepage": null,
             "id": 63157096,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:45:57Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-serbia",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -314,12 +464,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇭🇷 A list of neat projects made in Croatia",
+            "homepage": null,
             "id": 64030852,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:37:40Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-croatia",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -330,12 +487,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇸🇰 A list of neat projects made in Slovakia",
+            "homepage": null,
             "id": 64032745,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:46:20Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-slovakia",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -346,12 +510,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇧🇪 A list of neat projects made in Belgium",
+            "homepage": null,
             "id": 65120748,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:34:45Z",
+            "open_issues": 1,
             "owner": "IonicaBizau",
             "repo": "made-in-belgium",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -362,12 +533,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇱🇻 A list of neat projects made in Latvia",
+            "homepage": null,
             "id": 64033276,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:41:39Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-latvia",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -378,12 +556,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇱🇹 A list of neat projects made in Lithuania",
+            "homepage": null,
             "id": 64033347,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:42:02Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-lithuania",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -394,12 +579,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇸🇮 A list of neat projects made in Slovenia",
+            "homepage": null,
             "id": 64032793,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:46:42Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-slovenia",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -410,12 +602,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇲🇹 A list of cool projects made in Malta.",
+            "homepage": null,
             "id": 105289874,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:42:25Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-malta",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -426,12 +625,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇫🇮 A list of neat projects made in Finland",
+            "homepage": null,
             "id": 65120756,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:39:13Z",
+            "open_issues": 1,
             "owner": "IonicaBizau",
             "repo": "made-in-finland",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         }
@@ -448,12 +654,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇧🇷 A collection of amazing open source projects built by brazilian developers",
+            "homepage": null,
             "id": 289337987,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-13T19:39:00Z",
+            "open_issues": 6,
             "owner": "felipefialho",
             "repo": "awesome-made-by-brazilians",
-            "stars": 1871
+            "stars": 1871,
+            "topics": [
+              "awesome",
+              "awesome-brazil",
+              "awesome-opensource",
+              "awesomebrazil",
+              "css",
+              "javascript",
+              "made-by-brazilians",
+              "programming-language",
+              "stars"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -464,12 +685,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇨🇱 A list of cool projects made in Chile",
+            "homepage": null,
             "id": 153809313,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:36:53Z",
+            "open_issues": 1,
             "owner": "IonicaBizau",
             "repo": "made-in-chile",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -480,12 +708,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇨🇴 A list of cool projects made in Colombia",
+            "homepage": null,
             "id": 153791862,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:37:16Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-colombia",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -496,12 +731,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇺🇾 A list of cool projects made in Uruguay",
+            "homepage": null,
             "id": 153822768,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:49:15Z",
+            "open_issues": 1,
             "owner": "IonicaBizau",
             "repo": "made-in-uruguay",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -512,12 +754,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇦🇷 A list of cool projects made in Argentina",
+            "homepage": null,
             "id": 153805594,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:33:34Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-argentina",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -528,12 +777,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇻🇪 A list of cool projects made in Venezuela",
+            "homepage": null,
             "id": 153819473,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:49:37Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-venezuela",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -544,12 +800,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇵🇾 A list of cool projects made in Paraguay",
+            "homepage": null,
             "id": 153816156,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:43:34Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-paraguay",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -560,12 +823,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇵🇪 A list of cool projects made in Peru",
+            "homepage": null,
             "id": 153826856,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:43:56Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-peru",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -576,12 +846,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇧🇴 A list of cool projects made in Bolivia",
+            "homepage": null,
             "id": 153812701,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:35:08Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-bolivia",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -592,12 +869,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇪🇨 A list of chevere projects made in Ecuador",
+            "homepage": null,
             "id": 153783383,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:38:29Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-ecuador",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -608,12 +892,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇬🇾 A list of cool projects made in Guyana",
+            "homepage": null,
             "id": 153826190,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-13T20:40:22Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-guyana",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         }
@@ -630,12 +921,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of cool projects made in Iran",
+            "homepage": null,
             "id": 62889674,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-03-21T19:51:29Z",
+            "open_issues": 72,
             "owner": "mohebifar",
             "repo": "made-in-iran",
-            "stars": 969
+            "stars": 969,
+            "topics": [
+              "curated-list",
+              "iran",
+              "persian"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -646,12 +946,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NEED SUPPORT] 🇹🇼 (Taiwan #1) A list of neat projects made in Taiwan (MIT)",
+            "homepage": null,
             "id": 63853410,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-20T08:27:36Z",
+            "open_issues": 4,
             "owner": "hueitan",
             "repo": "made-in-taiwan",
-            "stars": 293
+            "stars": 293,
+            "topics": [
+              "country",
+              "developers",
+              "project",
+              "taiwan",
+              "taiwanese"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -662,12 +973,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RPG Card Generator based on Magic: The Gathering",
+            "homepage": "https://rpg-card.vercel.app",
             "id": 408087806,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-10-27T15:34:15Z",
+            "open_issues": 0,
             "owner": "mvximenko",
             "repo": "rpg-card",
-            "stars": 274
+            "stars": 274,
+            "topics": [
+              "baldurs-gate",
+              "baldurs-gate-3",
+              "board-game",
+              "board-games",
+              "card",
+              "card-game",
+              "card-games",
+              "cards",
+              "dnd",
+              "dungeons-and-dragons",
+              "fantasy",
+              "game",
+              "games",
+              "generator",
+              "magic",
+              "magic-the-gathering",
+              "mtg",
+              "mtg-cards",
+              "react",
+              "rpg"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -678,12 +1015,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of amazing open source projects that were made and mainly contributed by Chinese developers.I call it the high-star club.",
+            "homepage": null,
             "id": 284896802,
             "language": null,
+            "license": null,
             "last_commit": "2022-03-02T08:24:57Z",
+            "open_issues": 2,
             "owner": "JN-H",
             "repo": "awesome-made-by-chinese",
-            "stars": 233
+            "stars": 233,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -694,12 +1036,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇰🇿 😎  Awesome open source projects made in Kazakhstan",
+            "homepage": null,
             "id": 300057700,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-15T06:38:09Z",
+            "open_issues": 0,
             "owner": "aidarnouman",
             "repo": "awesome-made-in-kz",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "made-by-kazakhs",
+              "made-in-kz"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -710,12 +1062,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇮🇳 An awesome list for the best projects that were made and mainly contributed by Indian developers",
+            "homepage": "https://jeswinsimon.github.io/awesome-made-by-indians/",
             "id": 289402069,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-16T09:35:30Z",
+            "open_issues": 0,
             "owner": "jeswinsimon",
             "repo": "awesome-made-by-indians",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "india"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -726,12 +1087,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇹🇷 A list of neat projects made in Turkey",
+            "homepage": null,
             "id": 64032893,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-08-06T13:16:22Z",
+            "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-turkey",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -742,12 +1110,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list of Top Performing Bangladeshi Developers on Github",
+            "homepage": "http://awesome-devs.pro.bd/",
             "id": 1216866481,
             "language": "Nunjucks",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:18:26Z",
+            "open_issues": 1,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "automation",
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "bangladesh",
+              "bangladeshi",
+              "data-driven",
+              "developers",
+              "dhaka",
+              "directory",
+              "github-actions",
+              "github-api",
+              "github-stats",
+              "leaderboard",
+              "open-source",
+              "python",
+              "ranking",
+              "showcase"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -758,12 +1150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Amazing open source projects made in Uzbekistan 🇺🇿",
+            "homepage": null,
             "id": 199652795,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-17T12:11:20Z",
+            "open_issues": 4,
             "owner": "webstyle",
             "repo": "made-in-uzbekistan",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         }
@@ -780,12 +1177,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Here is a curation of awesome tools built by Nigerians that can be used by anybody and from anywhere in the world.",
+            "homepage": "https://madeinnigeria.dev",
             "id": 85386965,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-24T02:59:22Z",
+            "open_issues": 9,
             "owner": "acekyd",
             "repo": "made-in-nigeria",
-            "stars": 1140
+            "stars": 1140,
+            "topics": [
+              "africa",
+              "made-in-naija",
+              "made-in-nigeria",
+              "nigeria"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -796,12 +1203,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome tools built by Kenyans that can be used by anybody anywhere in the world.",
+            "homepage": "http://madeinkenya.github.io",
             "id": 242367147,
             "language": "HTML",
+            "license": null,
             "last_commit": "2024-01-11T16:22:24Z",
+            "open_issues": 3,
             "owner": "MadeInKenya",
             "repo": "madeinkenya.github.io",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -812,12 +1224,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repertoire du code Made in CI",
+            "homepage": "http://www.madeinci.net",
             "id": 126012088,
             "language": null,
+            "license": null,
             "last_commit": "2024-11-18T20:46:42Z",
+            "open_issues": 1,
             "owner": "codedivoire",
             "repo": "made-in-ci",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "coast",
+              "code",
+              "developpeur",
+              "ivory",
+              "logiciel",
+              "software"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -828,12 +1252,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source projects from Ghana.",
+            "homepage": null,
             "id": 86869955,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-25T11:07:14Z",
+            "open_issues": 1,
             "owner": "devcongress",
             "repo": "made-in-ghana",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "devcongress",
+              "development",
+              "ghana",
+              "tech"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -844,12 +1278,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛠️ 🇿🇲 Open Source Software made in Zambia or by Zambians. This is a collaborative effort to collate projects made in Zambia while highlighting the work of Zambian developers. Are you a Zambian dev? Add your repositories by making a pull request .",
+            "homepage": null,
             "id": 96708461,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-27T08:58:18Z",
+            "open_issues": 1,
             "owner": "ZambianTech",
             "repo": "made-in-zambia",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "africa",
+              "curated-list",
+              "made-in-zambia",
+              "made-in-zed",
+              "zambia"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -860,12 +1305,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Here is a curation of awesome tools built by 🇧🇯 beninese developers. This selection is not necessarily complete.",
+            "homepage": null,
             "id": 266393715,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-22T12:38:24Z",
+            "open_issues": 0,
             "owner": "olivsinz",
             "repo": "made-in-benin",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "benin",
+              "benin-devs",
+              "benin-republic"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -876,12 +1330,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome tools and projects built by Cameroonian developers",
+            "homepage": null,
             "id": 306037658,
             "language": null,
+            "license": null,
             "last_commit": "2023-01-13T10:58:51Z",
+            "open_issues": 0,
             "owner": "roc41d",
             "repo": "made-in-cameroon",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "africa",
+              "cameroon",
+              "cameroun",
+              "made-in-cameroon",
+              "made-in-cameroun",
+              "opensource",
+              "plugin",
+              "plugins",
+              "project",
+              "projects",
+              "tool",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -892,12 +1364,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇲🇺  A list of cool open-source projects made in Mauritius",
+            "homepage": "https://humeira.github.io/made-in-Mauritius/",
             "id": 74606669,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-26T23:16:00Z",
+            "open_issues": 5,
             "owner": "Humeira",
             "repo": "made-in-Mauritius",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "curated-list",
+              "open-source",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         },
@@ -908,12 +1389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 138779725,
             "language": null,
+            "license": null,
             "last_commit": "2018-08-05T11:43:31Z",
+            "open_issues": 0,
             "owner": "JoloffCode",
             "repo": "made-in-senegal",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
         }
@@ -922,15 +1408,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:40:55.273Z",
+    "last_updated": "2026-08-29T04:58:27.307Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Lists of open source projects mainly made by devs of a country or region. ",
+      "homepage": null,
       "id": 316718318,
       "language": null,
+      "license": null,
       "last_commit": "2026-05-15T11:42:57Z",
+      "open_issues": 1,
       "owner": "slowernews",
       "repo": "awesome-open-source-by-country-or-region",
-      "stars": 120
+      "stars": 120,
+      "topics": [
+        "awesome-list",
+        "country",
+        "made-by",
+        "made-in",
+        "oss"
+      ]
     },
     "original_repository_sha": "60940bf44d8d5d5343d1703a641d5e83a29bd567",
     "enhanced_repository": "enhansome/enhansome-open-source-by-country-or-region",
