@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "chernivtsijs",
             "repo": "made-in-ukraine",
-            "stars": 603,
+            "stars": 604,
             "topics": [
               "awesome",
               "awesome-list",
@@ -663,7 +663,7 @@
             "open_issues": 6,
             "owner": "felipefialho",
             "repo": "awesome-made-by-brazilians",
-            "stars": 1871,
+            "stars": 1873,
             "topics": [
               "awesome",
               "awesome-brazil",
@@ -1115,7 +1115,7 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-08-31T03:25:11Z",
+            "last_commit": "2026-09-01T03:52:11Z",
             "open_issues": 1,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:48:22.301Z",
+    "last_updated": "2026-09-01T10:23:55.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
