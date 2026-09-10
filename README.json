@@ -105,7 +105,7 @@
             "open_issues": 0,
             "owner": "redjanym",
             "repo": "awesome-made-by-albanians",
-            "stars": 38,
+            "stars": 37,
             "topics": [
               "hacktoberfest"
             ]
@@ -663,7 +663,7 @@
             "open_issues": 2,
             "owner": "felipefialho",
             "repo": "awesome-made-by-brazilians",
-            "stars": 1879,
+            "stars": 1880,
             "topics": [
               "awesome",
               "awesome-brazil",
@@ -1115,7 +1115,7 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-09-09T03:22:11Z",
+            "last_commit": "2026-09-10T03:24:01Z",
             "open_issues": 2,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
@@ -1182,7 +1182,7 @@
             "id": 85386965,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-09T00:49:48Z",
+            "last_commit": "2026-09-09T17:41:14Z",
             "open_issues": 11,
             "owner": "acekyd",
             "repo": "made-in-nigeria",
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T10:04:31.134Z",
+    "last_updated": "2026-09-10T10:00:27.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
