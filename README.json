@@ -45,7 +45,7 @@
             "open_issues": 0,
             "owner": "mvximenko",
             "repo": "gg",
-            "stars": 187,
+            "stars": 186,
             "topics": [
               "epic-games",
               "game",
@@ -1115,7 +1115,7 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-09-12T03:23:50Z",
+            "last_commit": "2026-09-13T02:59:08Z",
             "open_issues": 2,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
@@ -1373,7 +1373,7 @@
             "open_issues": 5,
             "owner": "Humeira",
             "repo": "made-in-Mauritius",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "curated-list",
               "open-source",
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:33:18.052Z",
+    "last_updated": "2026-09-13T10:35:09.312Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
