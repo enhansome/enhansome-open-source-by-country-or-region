@@ -663,7 +663,7 @@
             "open_issues": 2,
             "owner": "felipefialho",
             "repo": "awesome-made-by-brazilians",
-            "stars": 1882,
+            "stars": 1883,
             "topics": [
               "awesome",
               "awesome-brazil",
@@ -1115,7 +1115,7 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-09-18T03:03:09Z",
+            "last_commit": "2026-09-19T03:23:27Z",
             "open_issues": 2,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
@@ -1233,7 +1233,7 @@
             "open_issues": 1,
             "owner": "codedivoire",
             "repo": "made-in-ci",
-            "stars": 56,
+            "stars": 57,
             "topics": [
               "coast",
               "code",
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T10:01:23.291Z",
+    "last_updated": "2026-09-19T09:42:13.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
