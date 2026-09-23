@@ -1115,7 +1115,7 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-09-22T03:37:25Z",
+            "last_commit": "2026-09-23T03:10:00Z",
             "open_issues": 2,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
@@ -1183,7 +1183,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-09-21T07:35:20Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "acekyd",
             "repo": "made-in-nigeria",
             "stars": 1146,
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T10:16:44.671Z",
+    "last_updated": "2026-09-23T10:15:17.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
