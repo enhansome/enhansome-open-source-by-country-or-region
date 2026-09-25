@@ -660,7 +660,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-08T10:31:32Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "felipefialho",
             "repo": "awesome-made-by-brazilians",
             "stars": 1884,
@@ -930,7 +930,7 @@
             "open_issues": 72,
             "owner": "mohebifar",
             "repo": "made-in-iran",
-            "stars": 969,
+            "stars": 968,
             "topics": [
               "curated-list",
               "iran",
@@ -1115,7 +1115,7 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-09-24T03:30:51Z",
+            "last_commit": "2026-09-25T03:44:12Z",
             "open_issues": 2,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T10:28:32.459Z",
+    "last_updated": "2026-09-25T10:31:03.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
