@@ -82,7 +82,7 @@
             "open_issues": 4,
             "owner": "IonicaBizau",
             "repo": "made-in-romania",
-            "stars": 142,
+            "stars": 143,
             "topics": [
               "hacktoberfest"
             ]
@@ -1115,7 +1115,7 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-09-28T03:28:39Z",
+            "last_commit": "2026-09-29T04:31:46Z",
             "open_issues": 2,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:57:34.706Z",
+    "last_updated": "2026-09-29T11:32:23.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
