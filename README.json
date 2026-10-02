@@ -1045,7 +1045,7 @@
             "open_issues": 0,
             "owner": "aidarnouman",
             "repo": "awesome-made-in-kz",
-            "stars": 195,
+            "stars": 194,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1115,7 +1115,7 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-10-01T04:27:09Z",
+            "last_commit": "2026-10-02T03:55:34Z",
             "open_issues": 2,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:46:55.411Z",
+    "last_updated": "2026-10-02T11:18:39.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
