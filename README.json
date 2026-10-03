@@ -32,7 +32,7 @@
         {
           "node_type": "item",
           "title": "Germany",
-          "description": null,
+          "description": "mvximenko/gg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -92,7 +92,7 @@
         {
           "node_type": "item",
           "title": "Albania",
-          "description": null,
+          "description": "redjanym/awesome-made-by-albanians",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -115,7 +115,7 @@
         {
           "node_type": "item",
           "title": "Poland",
-          "description": null,
+          "description": "IonicaBizau/made-in-poland",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -138,7 +138,7 @@
         {
           "node_type": "item",
           "title": "Bosnia",
-          "description": null,
+          "description": "IonicaBizau/made-in-bosnia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -161,7 +161,7 @@
         {
           "node_type": "item",
           "title": "Austria",
-          "description": null,
+          "description": "IonicaBizau/made-in-austria",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -184,7 +184,7 @@
         {
           "node_type": "item",
           "title": "Bulgaria",
-          "description": null,
+          "description": "IonicaBizau/made-in-bulgaria",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -207,7 +207,7 @@
         {
           "node_type": "item",
           "title": "France",
-          "description": null,
+          "description": "IonicaBizau/made-in-france",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -230,7 +230,7 @@
         {
           "node_type": "item",
           "title": "Portugal",
-          "description": null,
+          "description": "IonicaBizau/made-in-portugal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -253,7 +253,7 @@
         {
           "node_type": "item",
           "title": "Greece",
-          "description": null,
+          "description": "IonicaBizau/made-in-greece",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -276,7 +276,7 @@
         {
           "node_type": "item",
           "title": "Belarus",
-          "description": null,
+          "description": "IonicaBizau/made-in-belarus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -299,7 +299,7 @@
         {
           "node_type": "item",
           "title": "Spain",
-          "description": null,
+          "description": "IonicaBizau/made-in-spain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -322,7 +322,7 @@
         {
           "node_type": "item",
           "title": "Denmark",
-          "description": null,
+          "description": "IonicaBizau/made-in-denmark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -368,7 +368,7 @@
         {
           "node_type": "item",
           "title": "Moldova",
-          "description": null,
+          "description": "IonicaBizau/made-in-moldova",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -391,7 +391,7 @@
         {
           "node_type": "item",
           "title": "Estonia",
-          "description": null,
+          "description": "IonicaBizau/made-in-estonia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -414,7 +414,7 @@
         {
           "node_type": "item",
           "title": "Netherlands",
-          "description": null,
+          "description": "IonicaBizau/made-in-netherlands",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -437,7 +437,7 @@
         {
           "node_type": "item",
           "title": "Serbia",
-          "description": null,
+          "description": "IonicaBizau/made-in-serbia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -460,7 +460,7 @@
         {
           "node_type": "item",
           "title": "Croatia",
-          "description": null,
+          "description": "IonicaBizau/made-in-croatia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -483,7 +483,7 @@
         {
           "node_type": "item",
           "title": "Slovakia",
-          "description": null,
+          "description": "IonicaBizau/made-in-slovakia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -529,7 +529,7 @@
         {
           "node_type": "item",
           "title": "Latvia",
-          "description": null,
+          "description": "IonicaBizau/made-in-latvia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -552,7 +552,7 @@
         {
           "node_type": "item",
           "title": "Lithuania",
-          "description": null,
+          "description": "IonicaBizau/made-in-lithuania",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -575,7 +575,7 @@
         {
           "node_type": "item",
           "title": "Slovenia",
-          "description": null,
+          "description": "IonicaBizau/made-in-slovenia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -598,7 +598,7 @@
         {
           "node_type": "item",
           "title": "Malta",
-          "description": null,
+          "description": "IonicaBizau/made-in-malta",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -621,7 +621,7 @@
         {
           "node_type": "item",
           "title": "Finland",
-          "description": null,
+          "description": "IonicaBizau/made-in-finland",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -660,7 +660,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-08T10:31:32Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "felipefialho",
             "repo": "awesome-made-by-brazilians",
             "stars": 1885,
@@ -681,7 +681,7 @@
         {
           "node_type": "item",
           "title": "Chile",
-          "description": null,
+          "description": "IonicaBizau/made-in-chile",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -704,7 +704,7 @@
         {
           "node_type": "item",
           "title": "Colombia",
-          "description": null,
+          "description": "IonicaBizau/made-in-colombia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -727,7 +727,7 @@
         {
           "node_type": "item",
           "title": "Uruguay",
-          "description": null,
+          "description": "IonicaBizau/made-in-uruguay",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -773,7 +773,7 @@
         {
           "node_type": "item",
           "title": "Venezuela",
-          "description": null,
+          "description": "IonicaBizau/made-in-venezuela",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -796,7 +796,7 @@
         {
           "node_type": "item",
           "title": "Paraguay",
-          "description": null,
+          "description": "IonicaBizau/made-in-paraguay",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -819,7 +819,7 @@
         {
           "node_type": "item",
           "title": "Peru",
-          "description": null,
+          "description": "IonicaBizau/made-in-peru",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -842,7 +842,7 @@
         {
           "node_type": "item",
           "title": "Bolivia",
-          "description": null,
+          "description": "IonicaBizau/made-in-bolivia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -865,7 +865,7 @@
         {
           "node_type": "item",
           "title": "Equador",
-          "description": null,
+          "description": "IonicaBizau/made-in-ecuador",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -888,7 +888,7 @@
         {
           "node_type": "item",
           "title": "Guyana",
-          "description": null,
+          "description": "IonicaBizau/made-in-guyana",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1032,7 +1032,7 @@
         {
           "node_type": "item",
           "title": "Kazakhstan",
-          "description": null,
+          "description": "aidarnouman/awesome-made-in-kz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1106,7 +1106,7 @@
         {
           "node_type": "item",
           "title": "Bangladesh",
-          "description": null,
+          "description": "sharf-shawon/Awesome-Bangladeshi-Devs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1115,7 +1115,7 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-10-02T03:55:34Z",
+            "last_commit": "2026-10-03T04:07:33Z",
             "open_issues": 2,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
@@ -1146,7 +1146,7 @@
         {
           "node_type": "item",
           "title": "Uzbekistan",
-          "description": null,
+          "description": "webstyle/made-in-uzbekistan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1173,7 +1173,7 @@
         {
           "node_type": "item",
           "title": "Nigeria",
-          "description": null,
+          "description": "acekyd/made-in-nigeria",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1199,7 +1199,7 @@
         {
           "node_type": "item",
           "title": "Kenya",
-          "description": null,
+          "description": "MadeInKenya/madeinkenya.github.io",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1220,7 +1220,7 @@
         {
           "node_type": "item",
           "title": "Ivory Coast",
-          "description": null,
+          "description": "codedivoire/made-in-ci",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1248,7 +1248,7 @@
         {
           "node_type": "item",
           "title": "Ghana",
-          "description": null,
+          "description": "devcongress/made-in-ghana",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1274,7 +1274,7 @@
         {
           "node_type": "item",
           "title": "Zambia",
-          "description": null,
+          "description": "ZambianTech/made-in-zambia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1301,7 +1301,7 @@
         {
           "node_type": "item",
           "title": "Benin",
-          "description": null,
+          "description": "olivsinz/made-in-benin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1326,7 +1326,7 @@
         {
           "node_type": "item",
           "title": "Cameroon",
-          "description": null,
+          "description": "roc41d/made-in-cameroon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1360,7 +1360,7 @@
         {
           "node_type": "item",
           "title": "Mauritius",
-          "description": null,
+          "description": "Humeira/made-in-Mauritius",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1385,7 +1385,7 @@
         {
           "node_type": "item",
           "title": "Senegal",
-          "description": null,
+          "description": "JoloffCode/made-in-senegal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:18:39.777Z",
+    "last_updated": "2026-10-03T04:58:44.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
