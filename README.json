@@ -102,7 +102,7 @@
             "language": null,
             "license": null,
             "last_commit": "2023-12-13T09:34:53Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "redjanym",
             "repo": "awesome-made-by-albanians",
             "stars": 37,
@@ -663,7 +663,7 @@
             "open_issues": 2,
             "owner": "felipefialho",
             "repo": "awesome-made-by-brazilians",
-            "stars": 1888,
+            "stars": 1889,
             "topics": [
               "awesome",
               "awesome-brazil",
@@ -1045,7 +1045,7 @@
             "open_issues": 0,
             "owner": "aidarnouman",
             "repo": "awesome-made-in-kz",
-            "stars": 194,
+            "stars": 195,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1115,7 +1115,7 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-10-11T04:15:51Z",
+            "last_commit": "2026-10-12T04:41:07Z",
             "open_issues": 2,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
@@ -1182,8 +1182,8 @@
             "id": 85386965,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-06T17:15:57Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-12T08:32:56Z",
+            "open_issues": 11,
             "owner": "acekyd",
             "repo": "made-in-nigeria",
             "stars": 1152,
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:34:33.298Z",
+    "last_updated": "2026-10-12T13:28:00.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
