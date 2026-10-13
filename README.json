@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "chernivtsijs",
             "repo": "made-in-ukraine",
-            "stars": 602,
+            "stars": 603,
             "topics": [
               "awesome",
               "awesome-list",
@@ -102,7 +102,7 @@
             "language": null,
             "license": null,
             "last_commit": "2023-12-13T09:34:53Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "redjanym",
             "repo": "awesome-made-by-albanians",
             "stars": 37,
@@ -1096,7 +1096,7 @@
             "open_issues": 1,
             "owner": "IonicaBizau",
             "repo": "made-in-turkey",
-            "stars": 86,
+            "stars": 87,
             "topics": [
               "hacktoberfest"
             ]
@@ -1115,7 +1115,7 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-10-12T04:41:07Z",
+            "last_commit": "2026-10-13T05:50:45Z",
             "open_issues": 2,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T13:28:00.202Z",
+    "last_updated": "2026-10-13T12:55:04.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
@@ -1420,7 +1420,7 @@
       "open_issues": 1,
       "owner": "slowernews",
       "repo": "awesome-open-source-by-country-or-region",
-      "stars": 120,
+      "stars": 121,
       "topics": [
         "awesome-list",
         "country",
