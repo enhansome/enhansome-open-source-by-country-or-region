@@ -982,7 +982,7 @@
             "open_issues": 0,
             "owner": "mvximenko",
             "repo": "rpg-card",
-            "stars": 275,
+            "stars": 276,
             "topics": [
               "baldurs-gate",
               "baldurs-gate-3",
@@ -1115,7 +1115,7 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-10-13T05:50:45Z",
+            "last_commit": "2026-10-14T03:25:35Z",
             "open_issues": 2,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:55:04.007Z",
+    "last_updated": "2026-10-14T10:33:35.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
