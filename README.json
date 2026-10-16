@@ -855,7 +855,7 @@
             "open_issues": 0,
             "owner": "IonicaBizau",
             "repo": "made-in-bolivia",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "hacktoberfest"
             ]
@@ -1115,7 +1115,7 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-10-15T03:32:30Z",
+            "last_commit": "2026-10-16T03:01:18Z",
             "open_issues": 2,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T10:15:48.469Z",
+    "last_updated": "2026-10-16T10:04:35.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
