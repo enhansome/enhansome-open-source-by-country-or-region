@@ -1024,7 +1024,7 @@
             "open_issues": 2,
             "owner": "JN-H",
             "repo": "awesome-made-by-chinese",
-            "stars": 233,
+            "stars": 234,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:55.273Z"
@@ -1115,7 +1115,7 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-10-16T03:01:18Z",
+            "last_commit": "2026-10-17T03:18:48Z",
             "open_issues": 2,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T10:04:35.132Z",
+    "last_updated": "2026-10-17T09:38:21.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
