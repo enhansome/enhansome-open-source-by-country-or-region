@@ -5,9 +5,9 @@ Lists of open source projects mainly made by developers of a country or region:\
 
 ## Europe
 
-* [Ukraine](https://github.com/chernivtsijs/made-in-ukraine) ⭐ 604 | 🐛 1 | 📅 2025-11-17 \[ [leaflet](https://github.com/Leaflet/Leaflet) ⭐ 45,796 | 🐛 368 | 🌐 JavaScript | 📅 2026-10-30 ]
+* [Ukraine](https://github.com/chernivtsijs/made-in-ukraine) ⭐ 604 | 🐛 1 | 📅 2025-11-17 \[ [leaflet](https://github.com/Leaflet/Leaflet) ⭐ 45,800 | 🐛 356 | 🌐 JavaScript | 📅 2026-10-31 ]
 * [Germany](https://github.com/mvximenko/awesome-made-by-germans) ⭐ 186 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-08
-* [Romania](https://github.com/IonicaBizau/made-in-romania) ⭐ 144 | 🐛 4 | 📅 2025-02-13 \[ [uglify](https://github.com/mishoo/UglifyJS) ⭐ 13,368 | 🐛 45 | 🌐 JavaScript | 📅 2024-11-22 ] [gadgetisimo/ro-open-source](https://github.com/gadgetisimo/ro-open-source) ⭐ 0 | 🐛 1 | 📅 2025-07-06
+* [Romania](https://github.com/IonicaBizau/made-in-romania) ⭐ 144 | 🐛 4 | 📅 2025-02-13 \[ [uglify](https://github.com/mishoo/UglifyJS) ⭐ 13,370 | 🐛 45 | 🌐 JavaScript | 📅 2024-11-22 ] [gadgetisimo/ro-open-source](https://github.com/gadgetisimo/ro-open-source) ⭐ 0 | 🐛 1 | 📅 2025-07-06
 * [Albania](https://github.com/redjanym/awesome-made-by-albanians) ⭐ 37 | 🐛 0 | 📅 2023-12-13
 * [Poland](https://github.com/IonicaBizau/made-in-poland) ⭐ 32 | 🐛 1 | 📅 2025-02-13
 * [Bosnia](https://github.com/IonicaBizau/made-in-bosnia) ⭐ 27 | 🐛 0 | 📅 2025-02-13
@@ -19,7 +19,7 @@ Lists of open source projects mainly made by developers of a country or region:\
 * [Belarus](https://github.com/IonicaBizau/made-in-belarus) ⭐ 10 | 🐛 0 | 📅 2025-02-13
 * [Spain](https://github.com/IonicaBizau/made-in-spain) ⭐ 9 | 🐛 0 | 📅 2025-02-13
 * [Denmark](https://github.com/IonicaBizau/made-in-denmark) ⭐ 8 | 🐛 0 | 📅 2025-02-13
-* [Italy](https://github.com/IonicaBizau/made-in-italy) ⭐ 8 | 🐛 0 | 📅 2025-02-13 \[ [redis](https://github.com/redis/redis) ⭐ 77,096 | 🐛 3,097 | 🌐 C | 📅 2026-10-30 ]
+* [Italy](https://github.com/IonicaBizau/made-in-italy) ⭐ 8 | 🐛 0 | 📅 2025-02-13 \[ [redis](https://github.com/redis/redis) ⭐ 77,116 | 🐛 3,097 | 🌐 C | 📅 2026-10-30 ]
 * [Moldova](https://github.com/IonicaBizau/made-in-moldova) ⭐ 8 | 🐛 0 | 📅 2025-02-13
 * [Estonia](https://github.com/IonicaBizau/made-in-estonia) ⭐ 6 | 🐛 0 | 📅 2025-02-13
 * [Netherlands](https://github.com/IonicaBizau/made-in-netherlands) ⭐ 6 | 🐛 0 | 📅 2025-08-06
@@ -32,33 +32,33 @@ Lists of open source projects mainly made by developers of a country or region:\
 * [Slovenia](https://github.com/IonicaBizau/made-in-slovenia) ⭐ 4 | 🐛 0 | 📅 2025-02-13
 * [Malta](https://github.com/IonicaBizau/made-in-malta) ⭐ 2 | 🐛 0 | 📅 2025-02-13
 * [Finland](https://github.com/IonicaBizau/made-in-finland) ⭐ 1 | 🐛 1 | 📅 2025-02-13
-* [Russia](https://github.com/igoradamenko/awesome-made-by-russians) \[ [firacode ](https://github.com/tonsky/FiraCode) ⭐ 82,158 | 🐛 428 | 🌐 Clojure | 📅 2026-07-28 - [kotlin](https://github.com/JetBrains/kotlin) ⭐ 53,528 | 🐛 491 | 🌐 Kotlin | 📅 2026-10-30 - [opencv](https://github.com/opencv/opencv) ⭐ 91,379 | 🐛 2,857 | 🌐 C++ | 📅 2026-10-30 - [redux](https://github.com/reduxjs/redux) ⭐ 61,441 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-20 - [nginx](https://github.com/nginx/nginx) ⭐ 32,011 | 🐛 445 | 🌐 C | 📅 2026-10-29 - [emmet](https://github.com/emmetio/emmet) ⭐ 4,547 | 🐛 87 | 🌐 TypeScript | 📅 2026-08-21 ]
+* [Russia](https://github.com/igoradamenko/awesome-made-by-russians) \[ [firacode ](https://github.com/tonsky/FiraCode) ⭐ 82,161 | 🐛 428 | 🌐 Clojure | 📅 2026-07-28 - [kotlin](https://github.com/JetBrains/kotlin) ⭐ 53,525 | 🐛 485 | 🌐 Kotlin | 📅 2026-10-31 - [opencv](https://github.com/opencv/opencv) ⭐ 91,390 | 🐛 2,856 | 🌐 C++ | 📅 2026-10-31 - [redux](https://github.com/reduxjs/redux) ⭐ 61,438 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-20 - [nginx](https://github.com/nginx/nginx) ⭐ 32,019 | 🐛 450 | 🌐 C | 📅 2026-10-29 - [emmet](https://github.com/emmetio/emmet) ⭐ 4,547 | 🐛 87 | 🌐 TypeScript | 📅 2026-08-21 ]
 
 ## America
 
-* [Brazil](https://github.com/felipefialho/awesome-made-by-brazilians) ⭐ 1,890 | 🐛 2 | 📅 2026-09-08 \[ [elixir](https://github.com/elixir-lang/elixir) ⭐ 26,698 | 🐛 26 | 🌐 Elixir | 📅 2026-10-30 - [lua](https://github.com/lua/lua) ⭐ 10,408 | 🐛 0 | 🌐 C | 📅 2026-10-16 - [neovim](https://github.com/neovim/neovim) ⭐ 103,253 | 🐛 2,012 | 🌐 Vim Script | 📅 2026-10-30 - [dracula theme](https://github.com/dracula/dracula-theme) ⭐ 23,609 | 🐛 3 | 📅 2026-10-30]
+* [Brazil](https://github.com/felipefialho/awesome-made-by-brazilians) ⭐ 1,892 | 🐛 2 | 📅 2026-09-08 \[ [elixir](https://github.com/elixir-lang/elixir) ⭐ 26,698 | 🐛 28 | 🌐 Elixir | 📅 2026-10-30 - [lua](https://github.com/lua/lua) ⭐ 10,411 | 🐛 0 | 🌐 C | 📅 2026-10-16 - [neovim](https://github.com/neovim/neovim) ⭐ 103,262 | 🐛 2,013 | 🌐 Vim Script | 📅 2026-10-31 - [dracula theme](https://github.com/dracula/dracula-theme) ⭐ 23,608 | 🐛 3 | 📅 2026-10-30]
 * [Chile](https://github.com/IonicaBizau/made-in-chile) ⭐ 20 | 🐛 1 | 📅 2025-02-13
 * [Colombia](https://github.com/IonicaBizau/made-in-colombia) ⭐ 18 | 🐛 0 | 📅 2025-02-13
 * [Uruguay](https://github.com/IonicaBizau/made-in-uruguay) ⭐ 9 | 🐛 1 | 📅 2025-02-13
-* [Argentina](https://github.com/IonicaBizau/made-in-argentina) ⭐ 8 | 🐛 0 | 📅 2025-02-13 \[ [crystal](https://github.com/crystal-lang/crystal) ⭐ 20,478 | 🐛 2,133 | 🌐 Crystal | 📅 2026-10-29 ]
+* [Argentina](https://github.com/IonicaBizau/made-in-argentina) ⭐ 8 | 🐛 0 | 📅 2025-02-13 \[ [crystal](https://github.com/crystal-lang/crystal) ⭐ 20,477 | 🐛 2,139 | 🌐 Crystal | 📅 2026-10-30 ]
 * [Venezuela](https://github.com/IonicaBizau/made-in-venezuela) ⭐ 7 | 🐛 0 | 📅 2025-02-13
 * [Paraguay](https://github.com/IonicaBizau/made-in-paraguay) ⭐ 5 | 🐛 0 | 📅 2025-02-13
 * [Peru](https://github.com/IonicaBizau/made-in-peru) ⭐ 4 | 🐛 0 | 📅 2025-02-13
 * [Bolivia](https://github.com/IonicaBizau/made-in-bolivia) ⭐ 3 | 🐛 0 | 📅 2025-02-13
 * [Equador](https://github.com/IonicaBizau/made-in-ecuador) ⭐ 2 | 🐛 0 | 📅 2025-02-13
 * [Guyana](https://github.com/IonicaBizau/made-in-guyana) ⭐ 1 | 🐛 0 | 📅 2025-02-13
-* [Canada](https://github.com/suguru03/made-in-canada) \[ [preact](https://github.com/preactjs/preact) ⭐ 38,965 | 🐛 39 | 🌐 JavaScript | 📅 2026-10-29 - [koa](https://github.com/koajs/koa) ⭐ 35,684 | 🐛 48 | 🌐 JavaScript | 📅 2026-10-28 - [ublock](https://github.com/gorhill/uBlock) ⭐ 68,926 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-29 - [spacemacs](https://github.com/syl20bnr/spacemacs) ⭐ 24,545 | 🐛 59 | 🌐 Emacs Lisp | 📅 2026-10-28 - [learn x in y minutes](https://github.com/adambard/learnxinyminutes-docs) ⭐ 12,372 | 🐛 259 | 🌐 Markdown | 📅 2026-09-21 - [devdocs](https://github.com/freeCodeCamp/devdocs) ⭐ 39,584 | 🐛 192 | 🌐 Ruby | 📅 2026-10-30 ]
+* [Canada](https://github.com/suguru03/made-in-canada) \[ [preact](https://github.com/preactjs/preact) ⭐ 38,968 | 🐛 39 | 🌐 JavaScript | 📅 2026-10-31 - [koa](https://github.com/koajs/koa) ⭐ 35,684 | 🐛 48 | 🌐 JavaScript | 📅 2026-10-28 - [ublock](https://github.com/gorhill/uBlock) ⭐ 68,955 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-30 - [spacemacs](https://github.com/syl20bnr/spacemacs) ⭐ 24,546 | 🐛 59 | 🌐 Emacs Lisp | 📅 2026-10-28 - [learn x in y minutes](https://github.com/adambard/learnxinyminutes-docs) ⭐ 12,373 | 🐛 260 | 🌐 Markdown | 📅 2026-09-21 - [devdocs](https://github.com/freeCodeCamp/devdocs) ⭐ 39,585 | 🐛 192 | 🌐 Ruby | 📅 2026-10-30 ]
 
 ## Asia
 
-* [Iran](https://github.com/mohebifar/made-in-iran) ⭐ 969 | 🐛 72 | 🌐 TypeScript | 📅 2024-03-21 \[ [nuxt](https://github.com/nuxt/nuxt.js) ⭐ 61,006 | 🐛 477 | 🌐 TypeScript | 📅 2026-10-30 ]
-* [Taiwan](https://github.com/hueitan/made-in-taiwan) ⭐ 293 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-20 \[ [hexo](https://github.com/hexojs/hexo) ⭐ 41,783 | 🐛 82 | 🌐 TypeScript | 📅 2026-10-26 ]
-* [Japan](https://github.com/mvximenko/awesome-made-by-japanese) ⭐ 277 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-27 \[ [ruby](https://github.com/ruby/ruby) ⭐ 23,797 | 🐛 783 | 🌐 Ruby | 📅 2026-10-30 ]
-* [China](https://github.com/JN-H/awesome-made-by-chinese) ⭐ 234 | 🐛 2 | 📅 2022-03-02 \[ [vue](https://github.com/vuejs/vue) ⭐ 212,487 | 🐛 637 | 🌐 TypeScript | 📅 2024-10-10 - [nw.js](https://github.com/nwjs/nw.js) ⭐ 41,144 | 🐛 915 | 🌐 JavaScript | 📅 2026-10-22 ]
-* [Kazakhstan](https://github.com/nugmanoff/awesome-made-in-kz) ⭐ 195 | 🐛 1 | 📅 2025-05-15
-* [India](https://github.com/jeswinsimon/awesome-made-by-indians) ⭐ 135 | 🐛 0 | 📅 2026-03-16 \[ [pytorch](https://github.com/pytorch/pytorch) ⭐ 105,014 | 🐛 17,884 | 🌐 Python | 📅 2026-10-30 ]
-* [Turkey](https://github.com/IonicaBizau/made-in-turkey) ⭐ 86 | 🐛 1 | 📅 2025-08-06 \[ [kemal](https://github.com/kemalcr/kemal) ⭐ 3,930 | 🐛 3 | 🌐 Crystal | 📅 2026-10-26 ]
-* [Bangladesh](https://github.com/sharf-shawon/Awesome-Bangladeshi-Devs#-top-25-developers-by-stars) ⭐ 59 | 🐛 2 | 🌐 Nunjucks | 📅 2026-10-30
+* [Iran](https://github.com/mohebifar/made-in-iran) ⭐ 969 | 🐛 72 | 🌐 TypeScript | 📅 2024-03-21 \[ [nuxt](https://github.com/nuxt/nuxt.js) ⭐ 61,004 | 🐛 477 | 🌐 TypeScript | 📅 2026-10-31 ]
+* [Taiwan](https://github.com/hueitan/made-in-taiwan) ⭐ 293 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-20 \[ [hexo](https://github.com/hexojs/hexo) ⭐ 41,784 | 🐛 82 | 🌐 TypeScript | 📅 2026-10-26 ]
+* [Japan](https://github.com/mvximenko/awesome-made-by-japanese) ⭐ 277 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-27 \[ [ruby](https://github.com/ruby/ruby) ⭐ 23,799 | 🐛 782 | 🌐 Ruby | 📅 2026-10-31 ]
+* [China](https://github.com/JN-H/awesome-made-by-chinese) ⭐ 234 | 🐛 2 | 📅 2022-03-02 \[ [vue](https://github.com/vuejs/vue) ⭐ 212,487 | 🐛 637 | 🌐 TypeScript | 📅 2024-10-10 - [nw.js](https://github.com/nwjs/nw.js) ⭐ 41,147 | 🐛 915 | 🌐 JavaScript | 📅 2026-10-22 ]
+* [Kazakhstan](https://github.com/nugmanoff/awesome-made-in-kz) ⭐ 196 | 🐛 1 | 📅 2025-05-15
+* [India](https://github.com/jeswinsimon/awesome-made-by-indians) ⭐ 135 | 🐛 0 | 📅 2026-03-16 \[ [pytorch](https://github.com/pytorch/pytorch) ⭐ 105,031 | 🐛 17,831 | 🌐 Python | 📅 2026-10-31 ]
+* [Turkey](https://github.com/IonicaBizau/made-in-turkey) ⭐ 86 | 🐛 1 | 📅 2025-08-06 \[ [kemal](https://github.com/kemalcr/kemal) ⭐ 3,931 | 🐛 3 | 🌐 Crystal | 📅 2026-10-26 ]
+* [Bangladesh](https://github.com/sharf-shawon/Awesome-Bangladeshi-Devs#-top-25-developers-by-stars) ⭐ 59 | 🐛 2 | 🌐 Nunjucks | 📅 2026-10-31
 * [Uzbekistan](https://github.com/webstyle/made-in-uzbekistan) ⭐ 25 | 🐛 3 | 📅 2026-09-17
 
 ## Africa
@@ -75,4 +75,4 @@ Lists of open source projects mainly made by developers of a country or region:\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
