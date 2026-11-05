@@ -982,7 +982,7 @@
             "open_issues": 0,
             "owner": "mvximenko",
             "repo": "rpg-card",
-            "stars": 277,
+            "stars": 278,
             "topics": [
               "baldurs-gate",
               "baldurs-gate-3",
@@ -1115,7 +1115,7 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-11-04T04:44:24Z",
+            "last_commit": "2026-11-05T05:27:51Z",
             "open_issues": 2,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
@@ -1186,7 +1186,7 @@
             "open_issues": 14,
             "owner": "acekyd",
             "repo": "made-in-nigeria",
-            "stars": 1157,
+            "stars": 1158,
             "topics": [
               "africa",
               "made-in-naija",
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T13:14:05.502Z",
+    "last_updated": "2026-11-05T13:27:35.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
