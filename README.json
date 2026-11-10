@@ -930,7 +930,7 @@
             "open_issues": 72,
             "owner": "mohebifar",
             "repo": "made-in-iran",
-            "stars": 969,
+            "stars": 970,
             "topics": [
               "curated-list",
               "iran",
@@ -1045,7 +1045,7 @@
             "open_issues": 1,
             "owner": "aidarnouman",
             "repo": "awesome-made-in-kz",
-            "stars": 196,
+            "stars": 195,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1115,11 +1115,11 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-11-09T04:59:19Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-10T06:19:43Z",
+            "open_issues": 4,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
-            "stars": 59,
+            "stars": 58,
             "topics": [
               "automation",
               "awesome",
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T14:16:16.312Z",
+    "last_updated": "2026-11-10T13:44:09.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
