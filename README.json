@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "chernivtsijs",
             "repo": "made-in-ukraine",
-            "stars": 603,
+            "stars": 604,
             "topics": [
               "awesome",
               "awesome-list",
@@ -930,7 +930,7 @@
             "open_issues": 72,
             "owner": "mohebifar",
             "repo": "made-in-iran",
-            "stars": 970,
+            "stars": 971,
             "topics": [
               "curated-list",
               "iran",
@@ -952,7 +952,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-03-20T08:27:36Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "hueitan",
             "repo": "made-in-taiwan",
             "stars": 293,
@@ -1115,7 +1115,7 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-11-11T04:35:26Z",
+            "last_commit": "2026-11-12T06:08:02Z",
             "open_issues": 4,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T12:55:22.650Z",
+    "last_updated": "2026-11-12T13:57:19.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
