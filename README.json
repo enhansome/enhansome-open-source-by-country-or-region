@@ -1115,11 +1115,11 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-11-16T05:04:05Z",
+            "last_commit": "2026-11-17T06:55:46Z",
             "open_issues": 4,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
-            "stars": 58,
+            "stars": 59,
             "topics": [
               "automation",
               "awesome",
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T13:57:47.817Z",
+    "last_updated": "2026-11-17T14:50:50.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
