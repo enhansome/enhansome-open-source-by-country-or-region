@@ -663,7 +663,7 @@
             "open_issues": 2,
             "owner": "felipefialho",
             "repo": "awesome-made-by-brazilians",
-            "stars": 1895,
+            "stars": 1896,
             "topics": [
               "awesome",
               "awesome-brazil",
@@ -952,7 +952,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-03-20T08:27:36Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "hueitan",
             "repo": "made-in-taiwan",
             "stars": 293,
@@ -1115,7 +1115,7 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-11-18T05:50:11Z",
+            "last_commit": "2026-11-19T06:17:39Z",
             "open_issues": 4,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T14:29:51.897Z",
+    "last_updated": "2026-11-19T14:39:23.892Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
