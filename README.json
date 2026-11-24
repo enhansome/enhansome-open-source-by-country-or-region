@@ -930,7 +930,7 @@
             "open_issues": 72,
             "owner": "mohebifar",
             "repo": "made-in-iran",
-            "stars": 971,
+            "stars": 972,
             "topics": [
               "curated-list",
               "iran",
@@ -1115,8 +1115,8 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-11-23T06:38:39Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-24T08:44:36Z",
+            "open_issues": 2,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
             "stars": 59,
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T16:24:51.822Z",
+    "last_updated": "2026-11-24T16:18:59.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
