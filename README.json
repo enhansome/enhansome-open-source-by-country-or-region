@@ -45,7 +45,7 @@
             "open_issues": 0,
             "owner": "mvximenko",
             "repo": "gg",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "epic-games",
               "game",
@@ -660,7 +660,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-08T10:31:32Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "felipefialho",
             "repo": "awesome-made-by-brazilians",
             "stars": 1894,
@@ -982,7 +982,7 @@
             "open_issues": 0,
             "owner": "mvximenko",
             "repo": "rpg-card",
-            "stars": 275,
+            "stars": 276,
             "topics": [
               "baldurs-gate",
               "baldurs-gate-3",
@@ -1115,7 +1115,7 @@
             "id": 1216866481,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-11-24T08:44:36Z",
+            "last_commit": "2026-11-26T07:09:55Z",
             "open_issues": 2,
             "owner": "sharf-shawon",
             "repo": "Awesome-Bangladeshi-Devs",
@@ -1408,7 +1408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T16:18:59.437Z",
+    "last_updated": "2026-11-26T15:42:04.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "Lists of open source projects mainly made by devs of a country or region. ",
